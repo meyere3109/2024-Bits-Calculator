@@ -4,4 +4,4 @@ def statement_generator(statement, decoration):
 
 
 # Main routine goes here
-statement_generator("instructions", "*")
+statement_generator("instructions", "*" )
